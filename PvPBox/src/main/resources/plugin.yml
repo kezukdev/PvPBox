@@ -1,0 +1,16 @@
+﻿name: FlodoriaBox
+authors: [Kezuk, Noksio]
+version: 1.5
+description: PvPBox plugin maded for Flodoria.
+main: dev.kezuk.flodoria.PvPBox
+commands:
+  pvpbox:
+    description: Permet de definir les points d'appartion.
+  build:
+    description: Permet de vous autoriser à construire et démolir!
+  stats:
+    description: Gerer ses statistiques et celle des autres!
+  ping:
+    description: Voir et regarder le ping!
+  broadcast:
+    description: Une simple commande d'annonce!
